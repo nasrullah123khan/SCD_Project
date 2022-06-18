@@ -1,10 +1,3 @@
-/*
- * Filename: Intersection.java
- * Author: John Kaiser
- * Date: 2/28/2020
- * Purpose: Runnable Intersection class to display traffic light colors
- */
-
 import java.awt.Color;
 import java.util.concurrent.atomic.AtomicBoolean;
 import javax.swing.JLabel;
