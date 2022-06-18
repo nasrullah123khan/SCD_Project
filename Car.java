@@ -1,11 +1,3 @@
-/*
- * Filename: Car.java
- * Author: John Kaiser
- * Date: 2/28/2020
- * Purpose: Runnable Car class to increment xPosition and display speed.
- */
-
-
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.atomic.AtomicBoolean;
 
