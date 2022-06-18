@@ -1,10 +1,3 @@
-/*
- * Filename: Time.java
- * Author: John Kaiser
- * Date: 2/28/2020
- * Purpose: Create runnable Time class to get current time and update timeText textfield in GUI
- */
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
